@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://img1.wallspic.com/crops/7/6/6/1/7/171667/171667-minimalism-art-graphics-atmosphere-world-7680x4320.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    margin-left: 530px;
+    margin-bottom: -50px;
+
+}
+.college{
+    border:2px solid rgba(225, 225, 225, .2);
+    color: white;
+    margin: 100px;
+    backdrop-filter: blur(15px);
+    border-radius: 8px;
+    margin: 200px;
+    left: 50px;
+}
+.XII{
+    border:2px solid rgba(225, 225, 225, .2);
+    color: white;
+    margin: 100px;
+    backdrop-filter: blur(15px);
+    border-radius: 8px;
+    margin: 200px;
+    left: 50px;
+}
+
+.X{
+    border:2px solid rgba(225, 225, 225, .2);
+    color: white;
+    margin: 100px;
+    backdrop-filter: blur(15px);
+    border-radius: 8px;
+    margin: 200px;
+    left: 50px;
+}

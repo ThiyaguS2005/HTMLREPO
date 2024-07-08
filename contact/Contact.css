@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/gradient-abstract-background-with-diagonal-lines_23-2150541433.jpg?t=st=1718690627~exp=1718691227~hmac=72378f30f36c461dee5012f92ba4ba6408e4a2706d3247844722630542b19c28);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    color: white;
+}
+.contact{
+    background-image: linear-gradient(to top right,blue,violet,blueviolet);
+    margin-left: 400px;
+    border: 2px solid violet;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    border-style: dashed;
+    padding: 10px;
+    margin: 10px;
+}

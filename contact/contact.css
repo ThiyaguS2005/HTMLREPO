@@ -1,0 +1,6 @@
+body{
+    background-color: darkcyan;
+    color: blue;
+    background-image: linear-gradient(to top right ,red,yellow,blue);
+
+}

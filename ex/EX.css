@@ -1,0 +1,18 @@
+h2{
+    background-color: blue;
+    color: indigo;
+}
+table,th{
+    border: 5px 5px 5px 5px purple;
+    color: rgb(235, 2, 110);
+}
+#I{
+    color: darkgoldenrod;
+}
+#II{
+    color: hotpink;
+}
+#III{
+    color: chartreuse;
+}
+

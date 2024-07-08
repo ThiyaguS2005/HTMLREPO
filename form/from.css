@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMVnAAuzWaCrpllKeNIYWI8-YDMLnpZFpufBh4IlX6A&s);
+background-repeat:no-repeat;
+background-size: cover;
+}
+h1{
+    background-color: aquamarine;
+}
+.label{
+    background-color: blue;
+
+}
+#name{
+    color: black;
+}
+table{
+    background-color: rgb(6, 132, 536);
+    color: blueviolet;
+    border: color(red green blue);
+    border-radius: 3%;
+    border-style: dashed;
+    padding: 10px;
+    margin: 10px;
+}

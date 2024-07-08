@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
+body{
+    background-image: url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+li{
+    margin-left: 50px;
+}
+.tech{
+    color: palegreen;
+    border: 2px solid rgba(225, 225, 225, .2);
+    border-radius: 9px;
+    backdrop-filter: blur(9px);
+}
+.soft{
+    color: palegreen;
+    border: 2px solid rgba(225, 225, 225, .2);
+    border-radius: 9px;
+    backdrop-filter: blur(9px);
+}
+h1{
+    color: darkolivegreen;
+    margin-left: 500px;
+
+}

@@ -1,0 +1,9 @@
+.body{
+    background-color: violet;
+    color: darkorange;
+    background-image: linear-gradient(red,white,blue);
+
+}
+#data{
+    color: teal;
+}
